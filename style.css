@@ -1,0 +1,11 @@
+html, body {
+    margin: auto;
+}
+
+body{
+    background-color: blue; 
+}
+.header{
+    background-color: red;
+    
+}
